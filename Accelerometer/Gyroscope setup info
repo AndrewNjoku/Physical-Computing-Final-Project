@@ -1,0 +1,14 @@
+
+Read about I2C.
+This device makes uses of I2C for communication
+
+Read about interrupts
+Again, this device uses them
+
+Find the MPU6050 libraries and use the example code which uses the DMP
+There are a lot of old forum posts claiming that the mysterious DMP hasn't been figured out and all you can do is read off raw values. This is NOT true, just look for more recent posts.
+
+Read up on how to calibrate the sensor.
+The values will float about on startup if you haven't calibrated it. Each individual sensor needs its own calibration values so you can't just put someone else's values into your sensor and expect it to work!
+
+ i2c library is excellent: https://github.com/jrowberg/i2cdevlib
