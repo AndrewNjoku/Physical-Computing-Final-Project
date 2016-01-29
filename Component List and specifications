@@ -1,0 +1,26 @@
+1. TOOGOO(R) USB to 5.5mm / 2.1mm 5V DC Barrel Jack Power Cable
+
+This is the DC cable that connects to the power adapter. It will be plugged into the portable charging unit.
+We have calculated that in order to power the LED matrix we will need this source of power solely  at 5 Volts and 2 Amps.
+
+2.Female DC Power adapter - 2.1mm jack to screw terminal block
+
+This adapter attaches to a wire connected to the back of the RGB LED matrix.
+
+
+3.Adafruit 16x32 RGB LED matrix panel
+
+The main component of our project this LED matrix takes up 12 Digital pins usually and requires 5 volts and 2 amps.
+Also in order to save pins in this project we will be 
+
+
+
+4.2 of Diymall 0.96" Inch I2c IIC Serial 128x64 Oled LCD Oled LED Module for Arduino Display 51 Msp420 Stim32 SCR (Blue&yellow)
+
+
+
+5.Arduino Proto Shield Rev3 (Pcb)
+
+
+
+6.MPU-6050 6DOF 3 Axis Gyroscope+Accelerometer Module for Arduino DIY
