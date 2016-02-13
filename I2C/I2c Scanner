@@ -1,0 +1,1 @@
+I2C Scanner scans the I2C bus for devices, when found it returns the serial of devices as a 7 bit address.
