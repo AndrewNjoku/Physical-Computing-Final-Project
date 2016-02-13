@@ -1,7 +1,7 @@
 
 Name of project: Brain Twister
 
-Description: One of our ideas for our physical computing final project, is an interactive game using led matrix and capacitive touch sensors. It is a handheld gaming device with two 32x32 (or smaller) Led matrix screens on either side of the device. There will be different mini games animated on both of the LED matrix’s which the user can play with the capacitive buttons which will update their actions based on the game on the screen. The whole point of this device is to try and play these different games simultaneously and get the highest score. 
+Description: One of our ideas for our physical computing final project, is an interactive game using led matrix and capacitive touch sensors. It is a handheld gaming device with a 32x16 adafruit LED matrix screen . There will be different mini games animated on both sides of the  LED matrix simultaneously which the user can play and interactive with using the capacitive buttons which will update their actions based on the game on the screen. The whole point of this device is to try and play these different games simultaneously and get the highest score. 
 
 Name of partners:
 •	Obum Malu
