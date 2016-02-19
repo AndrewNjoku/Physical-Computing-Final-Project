@@ -1,0 +1,17 @@
+                                                             PHYSICAL COMPUTING WEEKLY LOG
+We are learning how to use shift register in our project. how does shift register work? and what is shift register. Shift register is an integrated circuit that is designed to allow the bits of its contents to be moved to left or right.in other word it takes a serial inputs and turn it into a parallel output. Shift register is also in in Arduino project because when you run out of pin on your Arduino board you will need shift register to extend your pin inputs. For example you can use shift register to control 8 output at the same time while only taking up a few pins on your microcontroller.
+Another good thing about shift register is that you can link multiple registers together to extend your output even more.
+Why we are using shift register in our project. 
+The reason we are using shift register is because Arduino board don’t have enough pin input and we have a lot of components that required input pins connection in Arduino board. For instance with shift register will can use 3 pins instead of 8 pins. We are also soldering some of the components together.   
+ Below are the equipment that we are working on 
+ TOOGOO(R) USB to 5.5mm / 2.1mm 5V DC Barrel Jack Power Cable
+This is the DC cable that connects to the power adapter. It will be plugged into the portable charging unit.
+We have calculated that in order to power the LED matrix we will need this source of power solely at 5 Volts and 2 Amps.
+2. Female DC Power adapter - 2.1mm jack to screw terminal block
+This adapter attaches to a wire connected to the back of the RGB LED matrix.
+3. Adafruit 16x32 RGB LED matrix panel
+The main component of our project this LED matrix takes up 12 Digital pins usually and requires 5 volts and 2 amps.
+Also in order to save pins in this project we will be 
+4.2 of Diymall 0.96" Inch I2c IIC Serial 128x64 Oled LCD Oled LED Module for Arduino Display 51 Msp420 Stim32 SCR (Blue&yellow)
+5. Arduino Proto Shield Rev3 (Pcb)
+6. MPU-6050 6DOF 3 Axis Gyroscope+Accelerometer Module for Arduino DIY
